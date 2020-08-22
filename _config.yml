@@ -5,9 +5,6 @@ author: Daniel Kwittung
 description: Welcomepage for the trnbtl community
 url: trnbtl.githup.io
 
-# Build settings
-permalink: :/
-
 # Social icons
 show_social_icons: false
 
