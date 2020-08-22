@@ -2,9 +2,18 @@
 <html lang="en">
   {% include head.html %}
   <body>
-    {% include header.html %}
-    {% include banner.html %}
+    
+    {% include about.html %} 
+    
+    {% comment %}
+    {% include contact.html %} 
+    {% include portfolio.html %} 
+    {% include intro.html %} 
+    {% include navbar.html %}
     {{ content }}
+    {% endcomment %}
     {% include footer.html %}
   </body>
 </html>
+
+
