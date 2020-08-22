@@ -1,18 +1,14 @@
 # Site settings
-title:
-email:
-author:
-description:
-url:
+title: trnbtl
+email: trnbtl@posteo.de
+author: Daniel Kwittung
+description: Welcomepage for the trnbtl community
+url: trnbtl.githup.io
 
 # Build settings
-permalink: :title/
-sass:
-  sass_dir: css
+permalink: :/
 
 # Social icons
-show_social_icons: true
-github_username: someGithubUser
-twitter_username: someTwitterUser
+show_social_icons: false
 
-
+exclude: [/backup]
